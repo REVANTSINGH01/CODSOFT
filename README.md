@@ -1,3 +1,3 @@
-# CODSOFT
-Task No.1 of Web Develpment Internship 
-Author- REVANT SINGH (BATCH-A65)
+# CODSOFT-INTERNSHIP
+Tasks of web development internship 
+Author-REVANT SINGH (BATCH A-65)
